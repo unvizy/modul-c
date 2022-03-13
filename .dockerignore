@@ -1,0 +1,9 @@
+Dockerfile
+bin
+include
+lib
+lib64
+pyvenv.cfg
+share
+Dockerfile
+.dockerignore
